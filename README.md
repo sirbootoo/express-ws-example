@@ -1,6 +1,12 @@
 # Express Websocket and fetching unique elements in an array
 
 
+## Base URL
+```
+    https://express-ws.herokuapp.com/
+```
+
+
 ## Rest Side
 This helps find unique elements in an array in the **Unique Elements route**
 
